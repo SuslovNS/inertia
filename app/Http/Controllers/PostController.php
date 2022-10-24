@@ -8,6 +8,7 @@ class PostController extends Controller
 {
     public function index()
     {
-        dd(111);
+        dd(111222);
+
     }
 }
